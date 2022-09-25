@@ -1,4 +1,4 @@
-# **_Arseniia Damaksina_**
+# **_Arseniia Damaksina_ 
 
 ## **Future Web Developer**
 
@@ -6,19 +6,19 @@
 
 - ### A **doner** and **kebab** lover from heroic **_Ukraine_**. A former **accountant** who escaped from office routine into the embrace of **web development**. A devoted **Game of Thrones** fan despite the ending. I like **the sea** and **the rain**, but not at the same time. Now I have entered the jungles of **coding**, but fortunately I`m not alone here and I have **_BeCode_**.
 
-## **3 surprising skills:**
+## ***3 surprising skills:***
 
 - ### **Good memory:** anything you say can be used against you=)
 - ### **I crochet**. Yes, in 2022 I crochet and I'm under 60=)
 - ### **Self-discipline** is my main weapon. As well as jokes=)
 
-> **3 things I like the most in the universe:**
+## ***3 things I like the most in the universe:***
 
 - ### My daughter
 - ### Delichious food
 - ### Harry Potter
 
-> **Objectives I want to achieve as a developer during Becode:**
+## ***Objectives I want to achieve as a developer during Becode:***
 
 | **Hard skills** |    **Soft skills**     |       **Team work**       |
 | :-------------: | :--------------------: | :-----------------------: |
@@ -26,17 +26,17 @@
 |       CSS       |     Public talking     |   Organizational skills   |
 |   Javascript    | Leadership development | Different roles in a team |
 
-> **My fears**
+## ***My fears***
 
 - ### Public speaking and heights (but I am more afraid of public speaking)
 
-> **Things I look forward to:**
+## ***Things I look forward to:***
 
 - ### the victory of **Ukraine** in the war
 - ### becoming an **employed** juniour frontend developer
 - ### the **METALLICA** concert and me being there
 
-> **Three things I value the most to work as a team:**
+## ***Three things I value the most to work as a team:***
 
 - ### Team spirit
 - ### Fresh ideas and different views
