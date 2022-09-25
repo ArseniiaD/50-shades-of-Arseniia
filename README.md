@@ -6,7 +6,7 @@
 
 - ### A **doner** and **kebab** lover from heroic **_Ukraine_**. A former **accountant** who escaped from office routine into the embrace of **web development**. A devoted **Game of Thrones** fan despite the ending. I like **the sea** and **the rain**, but not at the same time. Now I have entered the jungles of **coding**, but fortunately I`m not alone here and I have **_BeCode_**.
 
-> **3 surprising skills:**
+## **3 surprising skills:**
 
 - ### **Good memory:** anything you say can be used against you=)
 - ### **I crochet**. Yes, in 2022 I crochet and I'm under 60=)
