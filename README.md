@@ -8,9 +8,9 @@
 
 ## ***3 surprising skills:***
 
-- ### **Good memory:** anything you say can be used against you=)
-- ### **I crochet**. Yes, in 2022 I crochet and I'm under 60=)
-- ### **Self-discipline** is my main weapon. As well as jokes=)
+- ### **_Good memory:_** anything you say can be used against you=)
+- ### **_I crochet_**. Yes, in 2022 I crochet and I'm under 60=)
+- ### **_Self-discipline_** is my main weapon. As well as jokes=)
 
 ## ***3 things I like the most in the universe:***
 
@@ -32,9 +32,9 @@
 
 ## ***Things I look forward to:***
 
-- ### the victory of **Ukraine** in the war
-- ### becoming an **employed** juniour frontend developer
-- ### the **METALLICA** concert and me being there
+- ### the victory of **_Ukraine_** in the war
+- ### becoming an **_employed_** juniour frontend developer
+- ### the **_METALLICA_** concert and me being there
 
 ## ***Three things I value the most to work as a team:***
 
