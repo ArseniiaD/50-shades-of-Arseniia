@@ -14,9 +14,9 @@
 
 > **This like the most in the universe:**
 
-- ### My daughter
-- ### Delichious food
-- ### Harry Potter
+- My daughter
+- Delichious food
+- Harry Potter
 
 > **Objectives I want to achieve as a developer during Becode:**
 
